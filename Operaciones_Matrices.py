@@ -14,6 +14,7 @@ print("Resultado de la suma A + B:")
 print(C)
 print()
 
+print("SUMA")
 AS2 = np.array([[2, 5, 1], [3, 1, 0]])
 BS2 = np.array([[1, 2, 3], [3, 4, 1]])
 print(AS2)
@@ -25,6 +26,7 @@ print("Resultado de la suma A + B:")
 print(C)
 print()
 
+print("SUMA")
 AS3 = np.array([[3, 2], [1, 4]])
 BS3 = np.array([[1, 3], [2, 5]])
 print(AS3)
@@ -61,6 +63,7 @@ C = AM1 * BM1
 print("Resultado de la multiplicacion A * B:")
 print(C)
 
+print("MULTIPLICACIÓN")
 AM2 = np.array([[3, 2], [1, 4]])
 BM2 = np.array([[1, 3], [2, 5]])
 print(AM2)
