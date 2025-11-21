@@ -62,6 +62,7 @@ print()
 C = AM1 * BM1
 print("Resultado de la multiplicacion A * B:")
 print(C)
+print()
 
 print("MULTIPLICACIÓN")
 AM2 = np.array([[3, 2], [1, 4]])
@@ -73,6 +74,7 @@ print()
 C = AM2 * BM2
 print("Resultado de la multiplicacion A * B:")
 print(C)
+print()
 
 print("MULTIPLICACIÓN")
 AM3 = np.array([[2, 3], [5, 1], [0,2]])

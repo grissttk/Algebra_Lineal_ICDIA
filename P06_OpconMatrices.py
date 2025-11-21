@@ -21,5 +21,5 @@ print("Resultado de la multiplicacion A * B:")
 print(C)
 
 C = A.dot(B)
-print("Mulplicacion matricial de A * 8:")
+print("Mulplicacion matricial de A * B:")
 print(C)
